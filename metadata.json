@@ -1,0 +1,6 @@
+{
+  "name": "Scan Sampah - Pemilah Sampah Pintar 3 Tong",
+  "description": "Website pemindai sampah real-time berbasis kamera untuk mengklasifikasikan sampah Organik (Hijau), Anorganik (Kuning), dan B3 (Merah) lengkap dengan tingkat akurasi dan panduan daur ulang edukatif.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
